@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 
 import utils
-from modules import Encoder, Decoder
+from modules import Encoder
 from custom_types import DaRnnNet, TrainData, TrainConfig
 from utils import numpy_to_tvar
 from constants import device
